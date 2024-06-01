@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abdo000mohamed
+- 👋 Hi, I’m abdel_Raouf SayedAhmed
+- I'm student at faculty of Electronic Engineering   
 - 👀 I’m interested in .Programming ..
-- 🌱 I’m currently learning ..Electrons .
-- 💞️ I’m looking to collaborate on programmer  ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Embedded system and machine learning.
+
 
 <!---
 Abdo000mohamed/Abdo000mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
